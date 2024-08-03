@@ -1,0 +1,61 @@
+lobby-server: "lobby"
+
+arena:
+  spawn:
+    x: 0
+    y: 0
+    z: 0
+    yaw: 0
+    pitch: 0
+  world: world
+  max-players: 100
+  countdown-seconds: 30
+  spawns:
+    red:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    blue:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    green:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    yellow:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    aqua:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    pink:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    white:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+    gray:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0

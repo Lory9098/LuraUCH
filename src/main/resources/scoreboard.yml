@@ -1,0 +1,28 @@
+scoreboards:
+  waiting:
+    title: "&b&lUHC"
+    lines:
+      - "%date%"
+      - " "
+      - "&b→ %player_name%"
+      - "&fEvento: &bUHC"
+      - "&fGiocatori: &b%uhc_remaining_players%"
+      - ""
+      - "&fL'evento inizierà tra &b%uhc_starting_seconds%&f!"
+      - " "
+      - "&eplay.luramc.net"
+  game:
+    title: "&b&lUHC"
+    lines:
+      - "&7%date%"
+      - " "
+      - "Il PvP si attiverà tra..."
+      - "&a%uhc_pvp_time%"
+      - " "
+      - "Giocatori: &a&7%uhc_remaining_players%&7/%uhc_max_players%"
+      - " "
+      - "Kills: &a&7%uhc_kills%"
+      - " "
+      - "Bordo: &a%uhc_border%"
+      - " "
+      - "&7play.luramc.net"

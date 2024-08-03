@@ -1,0 +1,4 @@
+name: LuraUHC
+version: '${version}'
+main: me.nettychannell.lurauhc.LuraUHC
+api-version: '1.19'
